@@ -2,11 +2,10 @@
 
 ## Запуск
 
-- Клонировать репозиторий в catkin_ws/src
+- Клонировать репозиторий в catkin_ws
 ``git clone https://github.com/makselk/ros_laba2.git ``
 
 - Собрать это дело
-``cd ..``
 ``catkin_make``
 ``source devel/setup.bash``
 
@@ -16,7 +15,7 @@
 
 - Смотрим, как оно работает (через ж*пу), показывая точку назначения при помощи "2D nav goal"
 
-## Дополнительные параметры custom_full.launch
+## Дополнительные параметры 'custom_full.launch'
 
 - ``model`` - можно указать другую модель робота
 - ``x_pos, y_pos, z_pos`` - начальное положение робота
