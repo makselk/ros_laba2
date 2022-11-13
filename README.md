@@ -14,8 +14,11 @@
   ros-noetic-gmapping ros-noetic-navigation ros-noetic-interactive-markers``
 
 ``sudo apt-get install ros-noetic-dynamixel-sdk``
+
 ``sudo apt-get install ros-noetic-turtlebot3-msgs``
+
 ``sudo apt-get install ros-noetic-turtlebot3``
+
 
 - Клонировать репозиторий
 ``git clone https://github.com/makselk/ros_laba2.git ``
