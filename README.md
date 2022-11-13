@@ -3,6 +3,7 @@
 ## Запуск
 
 - Установить зависимости:
+
 ``sudo apt-get install ros-noetic-joy ros-noetic-teleop-twist-joy \
   ros-noetic-teleop-twist-keyboard ros-noetic-laser-proc \
   ros-noetic-rgbd-launch ros-noetic-depthimage-to-laserscan \
